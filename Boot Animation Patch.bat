@@ -10,7 +10,7 @@ echo         ==========================================
 echo       "|                                          | "
 echo       "|      *** Boot Animtion Patch ***         | "
 echo       "|       For Lava Pixel V1 (seedmtk)        | "
-echo       "|        Created by Dharmesh{IVAN}         | "
+echo       "|        Created by Dharmeshgurnani        | "
 echo       "|                                          | "
 echo         ========================================== 
 echo  \ ===================================================== /
@@ -84,7 +84,7 @@ cls
 exit
 
 :info
-echo Creator Dharmesh aka ivan 
+echo Creator Dharmesh gurnani 
 echo xda developer dharmesh17
 echo Script For Lava Pixel V1
 pause
